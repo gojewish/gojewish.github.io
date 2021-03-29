@@ -1,3 +1,27 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | goJewish</title><link>https://gojewish.github.io/en/post/</link><atom:link href="https://gojewish.github.io/en/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>https://gojewish.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Posts</title><link>https://gojewish.github.io/en/post/</link></image><item><title>GoJewish Philantropic Project</title><link>https://gojewish.github.io/en/post/gojewish-philantropic-project/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://gojewish.github.io/en/post/gojewish-philantropic-project/</guid><description>&lt;h1 id="shalom">Shalom!&lt;/h1>
-&lt;h2 id="gojewish-strengthens-the-estonian-jewish-community-especially-during-harsh-covid-19-times-by-providing-humanitarian-support">GoJewish strengthens the Estonian Jewish community, especially during harsh COVID-19 times, by providing humanitarian support.&lt;/h2>
-&lt;h3 id="we-collect-donations-attract-volunteers-work-with-partners-and-use-resources-to-achieve-our-goal">We collect donations, attract volunteers, work with partners and use resources to achieve our goal.&lt;/h3></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | goJewish</title>
+    <link>https://gojewish.github.io/en/post/</link>
+      <atom:link href="https://gojewish.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gojewish.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>https://gojewish.github.io/en/post/</link>
+    </image>
+    
+    <item>
+      <title>GoJewish Philantropic Project</title>
+      <link>https://gojewish.github.io/en/post/gojewish-philantropic-project/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://gojewish.github.io/en/post/gojewish-philantropic-project/</guid>
+      <description>&lt;h1 id=&#34;shalom&#34;&gt;Shalom!&lt;/h1&gt;
+&lt;h2 id=&#34;gojewish-strengthens-the-estonian-jewish-community-especially-during-harsh-covid-19-times-by-providing-humanitarian-support&#34;&gt;GoJewish strengthens the Estonian Jewish community, especially during harsh COVID-19 times, by providing humanitarian support.&lt;/h2&gt;
+&lt;h3 id=&#34;we-collect-donations-attract-volunteers-work-with-partners-and-use-resources-to-achieve-our-goal&#34;&gt;We collect donations, attract volunteers, work with partners and use resources to achieve our goal.&lt;/h3&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
