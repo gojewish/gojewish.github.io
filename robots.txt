@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gojewish.github.io/sitemap.xml
