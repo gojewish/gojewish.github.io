@@ -1,28 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts | goJewish</title>
-    <link>https://gojewish.github.io/et/post/</link>
-      <atom:link href="https://gojewish.github.io/et/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://gojewish.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Posts</title>
-      <link>https://gojewish.github.io/et/post/</link>
-    </image>
-    
-    <item>
-      <title>GoJewish filantroopiline projekt</title>
-      <link>https://gojewish.github.io/et/post/go-jeweish-filantroopiline-projekt/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://gojewish.github.io/et/post/go-jeweish-filantroopiline-projekt/</guid>
-      <description>&lt;h2 id=&#34;shalom&#34;&gt;Shalom!&lt;/h2&gt;
-&lt;p&gt;GoJewish tugevdab Eesti juudi kogukonda, eriti COVID-19 ajal, pakkudes humanitaarabi. Kogume annetusi, meelitame vabatahtlikke, töötame partneritega ja kasutame selle missiooni saavutamiseks kõiki võimalikke ressursse.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | goJewish</title><link>https://gojewish.github.io/et/post/</link><atom:link href="https://gojewish.github.io/et/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>et</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate><image><url>https://gojewish.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Posts</title><link>https://gojewish.github.io/et/post/</link></image><item><title>GoJewish filantroopiline projekt</title><link>https://gojewish.github.io/et/post/go-jeweish-filantroopiline-projekt/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://gojewish.github.io/et/post/go-jeweish-filantroopiline-projekt/</guid><description>&lt;h2 id="shalom">Shalom!&lt;/h2>
+&lt;p>GoJewish tugevdab Eesti juudi kogukonda, eriti COVID-19 ajal, pakkudes humanitaarabi. Kogume annetusi, meelitame vabatahtlikke, töötame partneritega ja kasutame selle missiooni saavutamiseks kõiki võimalikke ressursse.
 Meie ülesanne on aidata kõiki oma ühiskonna haavatavamaid osi ajal, mil peaaegu kõik vajavad meie abi.
-Meie väärtushinnangud on meie pered, lapsed, vanad inimesed. Haridus, igapäevaelu, peresidemed - see kõik kuulub meie kogukonna huviorbiiti.&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+Meie väärtushinnangud on meie pered, lapsed, vanad inimesed. Haridus, igapäevaelu, peresidemed - see kõik kuulub meie kogukonna huviorbiiti.&lt;/p></description></item></channel></rss>
