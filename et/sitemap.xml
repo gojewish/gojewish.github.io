@@ -134,6 +134,9 @@
                 href="https://gojewish.github.io/et/event/"
                 />
   </url><url>
+    <loc>https://gojewish.github.io/et/anneta/</loc>
+    <lastmod>2021-01-18T00:00:00+02:00</lastmod>
+  </url><url>
     <loc>https://gojewish.github.io/et/post/go-jeweish-filantroopiline-projekt/</loc>
     <lastmod>2020-12-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -281,6 +284,42 @@
                 href="https://gojewish.github.io/et/slides/example/"
                 />
   </url><url>
+    <loc>https://gojewish.github.io/et/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gojewish.github.io/en/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gojewish.github.io/ru/terms/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://gojewish.github.io/et/terms/"
+                />
+  </url><url>
+    <loc>https://gojewish.github.io/et/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://gojewish.github.io/en/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://gojewish.github.io/ru/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="et"
+                href="https://gojewish.github.io/et/privacy/"
+                />
+  </url><url>
     <loc>https://gojewish.github.io/et/tag/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -423,6 +462,12 @@
                 hreflang="et"
                 href="https://gojewish.github.io/et/admin/"
                 />
+  </url><url>
+    <loc>https://gojewish.github.io/et/tanan/</loc>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://gojewish.github.io/et/viga/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://gojewish.github.io/et/categories/</loc>
     <xhtml:link

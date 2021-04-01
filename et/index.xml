@@ -1927,6 +1927,141 @@ valides eelistatud panga &lt;/div&gt;
     </item>
     
     <item>
+      <title>Iga annetus loeb</title>
+      <link>https://gojewish.github.io/et/anneta/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0200</pubDate>
+      <guid>https://gojewish.github.io/et/anneta/</guid>
+      <description>&lt;h2 id=&#34;toeta-juudi-kogukonda-juba-täna&#34;&gt;Toeta juudi kogukonda juba täna&lt;/h2&gt;
+&lt;p&gt;Igas suuruses rahalised annetused aitavad rahastada juudi kogukonna programme.
+Saate aidata tagada, et nii tüdrukud kui ka poisid saaksid juudi hariduse, mis omakorda loob teed parema elamise poole.
+Kuna pandeemia mõju ohustab veel eesootavaid läbimurdeid, tähendab teie toetus praegu rohkem kui kunagi varem. Nii et palun tehke kõik endast olenev, et aidata.&lt;/p&gt;
+&lt;div id=&#34;donations_form&#34; class=&#34;mkdf-form&#34; style=&#34;position:relative!important;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display: inline-block!important;&#34;&gt;
+&lt;input id=&#34;donations_tabs_1&#34; type=&#34;radio&#34; name=&#34;donations_tabs&#34; value=&#34;0&#34; style=&#34;font-size:14px!important;font-family:&#39;Titillium Web&#39;, Arial, Helvetica, sans-serif!important;display:none!important;&#34; onclick=&#34;switchTab()&#34; checked=&#34;true&#34;&gt;
+&lt;label for=&#34;donations_tabs_1&#34; id=&#34;mkdf.one.time&#34; style=&#34;position:relative!important;top:1px!important;margin-right:5px!important;margin-bottom: 0px!important;padding-top:12px!important;padding-bottom:12px!important;padding-right:20px!important;padding-left:20px!important;font-weight:600!important;font-size:14px!important;line-height:14px!important;height:14px!important;text-align:center!important;border-left-width:1px!important;border-left-style:solid!important;border-left-color:#C6C6C6!important;border-right-width:1px!important;border-right-style:solid!important;border-right-color:#C6C6C6!important;border-top-width:1px!important;border-top-style:solid!important;border-top-color:#C6C6C6!important;border-top-left-radius:10px!important;border-top-right-radius:10px!important;background-color:#E3E3E3!important;background-image:none!important;background-repeat:repeat!important;background-position:top left!important;background-attachment:scroll!important;float: none!important;box-sizing: content-box!important;display:inline-block!important;&#34;&gt;Ühekordne annetus&lt;/label&gt;
+&lt;input id=&#34;donations_tabs_2&#34; type=&#34;radio&#34; name=&#34;donations_tabs&#34; value=&#34;1&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onclick=&#34;switchTab()&#34;&gt;
+&lt;label for=&#34;donations_tabs_2&#34; id=&#34;mkdf.recurring&#34; style=&#34;position:relative!important;top:1px!important;margin-right:5px!important;margin-bottom: 0px!important;padding-top:12px!important;padding-bottom:12px!important;padding-right:20px!important;padding-left:20px!important;font-weight:600!important;font-size:14px!important;line-height:14px!important;height:14px!important;text-align:center!important;border-left-width:1px!important;border-left-style:solid!important;border-left-color:#C6C6C6!important;border-right-width:1px!important;border-right-style:solid!important;border-right-color:#C6C6C6!important;border-top-width:1px!important;border-top-style:solid!important;border-top-color:#C6C6C6!important;border-top-left-radius:10px!important;border-top-right-radius:10px!important;background-color:#E3E3E3!important;background-image:none!important;background-repeat:repeat!important;background-position:top left!important;background-attachment:scroll!important;float: none!important;box-sizing: content-box!important;display:inline-block!important;&#34;&gt;Püsiannetus&lt;/label&gt;
+&lt;input id=&#34;mkdf.gateway.url&#34; name=&#34;mkdf.gateway.url&#34; type=&#34;hidden&#34; value=&#34;https://payment.maksekeskus.ee&#34;&gt;
+&lt;input id=&#34;mkdf.project.id&#34; type=&#34;hidden&#34; name=&#34;mkdf.project.id&#34; value=&#34;dcc4e097-8bc8-4682-b61e-606519348e27&#34;&gt;
+&lt;input id=&#34;mkdf.locale&#34; type=&#34;hidden&#34; name=&#34;mkdf.locale&#34; value=&#34;et&#34;&gt;
+&lt;input id=&#34;mkdf.country&#34; type=&#34;hidden&#34; name=&#34;mkdf.country&#34; value=&#34;EE&#34;&gt;
+&lt;div class=&#34;mkdf-containter&#34; style=&#34;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:15px!important;border-top-left-radius:0!important;overflow:hidden!important;box-sizing: content-box!important;&#34;&gt;
+&lt;div id=&#34;donations_tabs_1_content&#34; class=&#34;donations_tabs_content&#34;&gt;
+&lt;div id=&#34;donations_content_1&#34; class=&#34;mkdf-content&#34; style=&#34;padding-top:15px!important;padding-bottom:15px!important;padding-right:15px!important;padding-left:15px!important;border-bottom-width:6px!important;border-bottom-style:solid!important;border-bottom-color:#F4EBB9!important;box-sizing: content-box!important;&#34;&gt;
+&lt;div class=&#34;mkdf-form-items&#34; style=&#34;padding-top:25px!important;&#34;&gt;
+&lt;div id=&#34;mkdf.donate.money&#34; class=&#34;mkdf-label&#34; style=&#34;padding-bottom:10px!important;font-weight:600!important;&#34;&gt; Annetan raha &lt;/div&gt;
+&lt;div id=&#34;mkdf.donate.sum.notice&#34; class=&#34;mkdf-description&#34; style=&#34;padding-bottom:8px!important;font-weight:400!important;&#34;&gt; Vali annetuse summa või kirjuta sobiv summa lahtrisse &lt;/div&gt;
+&lt;div id=&#34;donationAmounts&#34; class=&#34;mkdf-form-items-horizontal&#34;&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-button&#34; style=&#34;display:inline-block!important&#34; id=&#34;donations_sum_0-div&#34;&gt;
+&lt;input id=&#34;donations_sum_0&#34; type=&#34;radio&#34; required name=&#34;donations_sum&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeDonationAmount(this)&#34; value=&#34;20.00&#34;&gt;
+&lt;label for=&#34;donations_sum_0&#34; style=&#34;display:inline-block!important;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:10px!important;padding-top:8px!important;padding-bottom:8px!important;padding-right:10px!important;padding-left:10px!important;font-size:18px!important;line-height:23px!important;height:25px!important;float: none!important;box-sizing: content-box!important;cursor: pointer!important;&#34;&gt;&lt;span id=&#34;donations_sum_0-span&#34;&gt;20.00&lt;/span&gt; €&lt;/label&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-button&#34; style=&#34;display:inline-block!important&#34; id=&#34;donations_sum_1-div&#34;&gt;
+&lt;input id=&#34;donations_sum_1&#34; type=&#34;radio&#34; required name=&#34;donations_sum&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeDonationAmount(this)&#34; value=&#34;50.00&#34;&gt;
+&lt;label for=&#34;donations_sum_1&#34; style=&#34;display:inline-block!important;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:10px!important;padding-top:8px!important;padding-bottom:8px!important;padding-right:10px!important;padding-left:10px!important;font-size:18px!important;line-height:23px!important;height:25px!important;float: none!important;box-sizing: content-box!important;cursor: pointer!important;&#34;&gt;&lt;span id=&#34;donations_sum_1-span&#34;&gt;50.00&lt;/span&gt; €&lt;/label&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-button&#34; style=&#34;display:inline-block!important&#34; id=&#34;donations_sum_2-div&#34;&gt;
+&lt;input id=&#34;donations_sum_2&#34; type=&#34;radio&#34; required name=&#34;donations_sum&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeDonationAmount(this)&#34; value=&#34;100.00&#34;&gt;
+&lt;label for=&#34;donations_sum_2&#34; style=&#34;display:inline-block!important;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:10px!important;padding-top:8px!important;padding-bottom:8px!important;padding-right:10px!important;padding-left:10px!important;font-size:18px!important;line-height:23px!important;height:25px!important;float: none!important;box-sizing: content-box!important;cursor: pointer!important;&#34;&gt;&lt;span id=&#34;donations_sum_2-span&#34;&gt;100.00&lt;/span&gt; €&lt;/label&gt;
+&lt;/div&gt;
+&lt;div id=&#34;custom-amount-block&#34; class=&#34;mkdf-form-item mkdf-form-item-labeled&#34; style=&#34;padding-left:15px!important;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;donations_sum_write&#34; type=&#34;radio&#34; value=&#34;custom&#34; required name=&#34;donations_sum&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeDonationAmount(this)&#34;&gt;
+&lt;label for=&#34;donations_sum_write&#34; onclick=&#34;document.getElementById(&#39;donations_sum_number&#39;).focus();&#34; style=&#34;height: 25px!important;float: none!important;box-sizing: content-box!important;&#34;&gt;
+&lt;span id=&#34;mkdf.donate.sum.write&#34;&gt;muu summa&lt;/span&gt;
+&lt;input id=&#34;donations_sum_number&#34; onclick=&#34;document.getElementById(&#39;donations_sum_write&#39;).click()&#34; type=&#34;text&#34; name=&#34;donations_sum_number&#34; style=&#34;font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:10px!important;padding-top:8px!important;padding-bottom:8px!important;padding-right:12px!important;padding-left:12px!important;position:relative!important;max-width:100px!important;font-size:18px!important;line-height:23px!important;height:23px!important;box-sizing:content-box!important;&#34; required&gt;
+&lt;/label&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;    &lt;div class=&#34;mkdf-form-items&#34; style=&#34;padding-top:25px!important;&#34;&gt;
+&lt;div id=&#34;mkdf.donator.data&#34; class=&#34;mkdf-label&#34; style=&#34;padding-bottom:10px!important;font-weight:600!important;&#34;&gt; Minu andmed &lt;/div&gt;
+&lt;div id=&#34;customer_data&#34; class=&#34;mkdf-form-items-block&#34; style=&#34;display:inline-block!important;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:10px!important;padding-top:0!important;padding-bottom:0!important;padding-right:10px!important;padding-left:10px!important;box-sizing: content-box!important;&#34;&gt;
+&lt;div class=&#34;mkdf-form-item&#34;&gt;
+&lt;input id=&#34;mkdf.donator.full.name&#34; type=&#34;text&#34; onfocusout=&#34;validate(this);&#34; pattern=&#34;^\s*[^\s]+\s+[^\s]+.*$&#34; name=&#34;mkdf.donator.full.name&#34; placeholder=&#34;Nimi&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;border-style:solid!important;border-color:#C6C6C6!important;width:200px!important;max-width:270px!important;border-width:0!important;border-bottom-width:1px!important;border-bottom-style:solid!important;border-bottom-color:#C6C6C6!important;border-radius:0!important;padding-top:6px!important;padding-bottom:6px!important;padding-right:0!important;padding-left:0!important;outline:none!important;box-sizing: content-box!important;&#34;&gt;
+&lt;div id=&#34;mkdf.donator.full.name.invalid&#34; class=&#34;invalid-feedback&#34; style=&#34;color:red!important;display:none!important;&#34;&gt; Palun kontrollige oma ees- ja perekonnanime &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item&#34;&gt;
+&lt;input id=&#34;mkdf.donator.personCode&#34; type=&#34;text&#34; name=&#34;mkdf.donator.personCode&#34; placeholder=&#34;Isikukood&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;border-style:solid!important;border-color:#C6C6C6!important;width:200px!important;max-width:270px!important;border-width:0!important;border-bottom-width:1px!important;border-bottom-style:solid!important;border-bottom-color:#C6C6C6!important;border-radius:0!important;padding-top:6px!important;padding-bottom:6px!important;padding-right:0!important;padding-left:0!important;outline:none!important;box-sizing: content-box!important;&#34;&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item&#34;&gt;
+&lt;input id=&#34;mkdf.donator.email&#34; type=&#34;email&#34; onfocusout=&#34;validate(this);&#34; name=&#34;mkdf.donator.email&#34; placeholder=&#34;E-mail&#34; style=&#34;font-size:14px!important;font-family:&#39;Titillium Web&#39;, Arial, Helvetica, sans-serif!important;display:inline-block!important;border-style:solid!important;border-color:#C6C6C6!important;width:200px!important;max-width:270px!important;border-width:0!important;border-bottom-width:0px!important;border-bottom-style:solid!important;border-bottom-color:#C6C6C6!important;border-radius:0!important;padding-top:6px!important;padding-bottom:6px!important;padding-right:0!important;padding-left:0!important;outline:none!important;box-sizing: content-box!important;&#34;&gt;
+&lt;div id=&#34;mkdf.donator.email.invalid&#34; class=&#34;invalid-feedback&#34; style=&#34;color:red!important;display:none!important;&#34;&gt; Palun kontrollige e-mail addressi &lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-items&#34; style=&#34;padding-top:25px!important;&#34;&gt;
+&lt;div class=&#34;mkdf-label mkdf.payment&#34; style=&#34;padding-bottom:4px!important;font-weight:600!important;&#34;&gt; Vormistamine &lt;/div&gt;
+&lt;div class=&#34;mkdf-description mkdf.payment.description&#34; style=&#34;padding-bottom:4px!important;font-weight:400!important;&#34;&gt; Vormista annetus 
+krediitkaardiga&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-items-horizontal mkdf-form-items-banklinks&#34; style=&#34;margin-right:-5px!important;margin-left:-5px!important;&#34;&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;&lt;input id=&#34;VISA-EVERYPAY&#34; type=&#34;radio&#34; name=&#34;donations_bank&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeBankLink(this)&#34; value=&#34;EVERYPAY&#34;&gt; &lt;label for=&#34;VISA-EVERYPAY&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/visa.png&#34; alt=&#34;EVERYPAY&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;&lt;input id=&#34;MASTERCARD-EVERYPAY&#34; type=&#34;radio&#34; name=&#34;donations_bank&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeBankLink(this)&#34; value=&#34;EVERYPAY&#34;&gt; &lt;label for=&#34;MASTERCARD-EVERYPAY&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/mastercard.png&#34; alt=&#34;EVERYPAY&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;&lt;/div&gt;
+&lt;div class=&#34;mkdf-description mkdf.payment.description&#34; style=&#34;padding-bottom:4px!important;font-weight:400!important;&#34;&gt; Vormista annetus 
+valides eelistatud panga &lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;EE_SWED&#34; type=&#34;radio&#34; name=&#34;donations_bank&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeBankLink(this)&#34; value=&#34;EE_SWED&#34;&gt;
+&lt;label for=&#34;EE_SWED&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/swedbank.png&#34; alt=&#34;EE_SWED&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;EE_SEB&#34; type=&#34;radio&#34; name=&#34;donations_bank&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeBankLink(this)&#34; value=&#34;EE_SEB&#34;&gt;
+&lt;label for=&#34;EE_SEB&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/seb.png&#34; alt=&#34;EE_SEB&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;EE_LHV&#34; type=&#34;radio&#34; name=&#34;donations_bank&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeBankLink(this)&#34; value=&#34;EE_LHV&#34;&gt;
+&lt;label for=&#34;EE_LHV&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/lhv.png&#34; alt=&#34;EE_LHV&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;EE_NORDEA&#34; type=&#34;radio&#34; name=&#34;donations_bank&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeBankLink(this)&#34; value=&#34;EE_NORDEA&#34;&gt;
+&lt;label for=&#34;EE_NORDEA&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/luminor.png&#34; alt=&#34;EE_NORDEA&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;EE_KREDIIDI&#34; type=&#34;radio&#34; name=&#34;donations_bank&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeBankLink(this)&#34; value=&#34;EE_KREDIIDI&#34;&gt;
+&lt;label for=&#34;EE_KREDIIDI&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/coop.png&#34; alt=&#34;EE_KREDIIDI&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;EE_POCOPAY&#34; type=&#34;radio&#34; name=&#34;donations_bank&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; onchange=&#34;changeBankLink(this)&#34; value=&#34;EE_POCOPAY&#34;&gt;
+&lt;label for=&#34;EE_POCOPAY&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/pocopay.png&#34; alt=&#34;EE_POCOPAY&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div id=&#34;donations_tabs_2_content&#34; class=&#34;donations_tabs_content&#34;&gt;
+&lt;div id=&#34;donations_content_2&#34; class=&#34;mkdf-content&#34; style=&#34;padding:15px!important;border-bottom-width:6px!important;border-bottom-style:solid!important;border-bottom-color:#F4EBB9!important;box-sizing: content-box!important;&#34;&gt;
+&lt;div class=&#34;mkdf-form-items&#34; style=&#34;padding-top:25px!important;&#34;&gt;
+&lt;div class=&#34;mkdf-label mkdf.project&#34; style=&#34;padding-bottom:10px!important;font-weight:600!important;&#34;&gt; Toetatav projekt &lt;/div&gt;
+&lt;select class=&#34;project-select&#34; onchange=&#34;selectDropdownChange(&#39;recurring&#39;)&#34; style=&#34;font-family:Arial, Helvetica, sans-serif!important;display:inline-block!important;width:100%!important;min-width:300px!important;max-width:480px!important;font-size:18px!important;line-height:25px!important;font-weight:300!important;color:#444!important;padding-top:8px!important;padding-bottom:8px!important;padding-right:40px!important;padding-left:8px!important;box-sizing:border-box!important;margin-top:0!important;margin-bottom:0!important;margin-right:0!important;margin-left:0!important;border-width:1px!important;border-style:solid!important;border-color:#C6C6C6!important;border-radius:10px!important;-moz-appearance:none!important;-webkit-appearance:none!important;appearance:none!important;background-color:#FFF!important;background-image:url(&#39;data:image/svg+xml,%3Csvg id=\&#39;Layer_1\&#39; data-name=\&#39;Layer 1\&#39; xmlns=\&#39;http://www.w3.org/2000/svg\&#39; viewBox=\&#39;0 0 20 8.84\&#39;%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill:%235c5b5b!important;%7D%3C/style%3E%3C/defs%3E%3Cpath class=\&#39;cls-1\&#39; d=\&#39;M8.84,9.84,0,1H3L9.43,7.62h.13L16.87,1H20L10.05,9.84Z\&#39; transform=\&#39;translate(0.04 -1)\&#39;/%3E%3C/svg%3E&#39;)!important;background-repeat:no-repeat, repeat!important;background-position:right 0.5em top 50%, 0 0!important;background-size:0.75em auto, 100%!important;&#34;&gt;
+&lt;option data-amount0=&#34;20.00&#34; data-amount1=&#34;50.00&#34; data-amount2=&#34;100.00&#34; data-one-time data-recurring data-custom-amount data-project-id=&#34;dcc4e097-8bc8-4682-b61e-606519348e27&#34; selected=&#34;true&#34;&gt;goJewish.eu&lt;/option&gt;&lt;/select&gt;&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-items&#34; style=&#34;padding-top:25px!important;&#34;&gt;
+&lt;div class=&#34;mkdf-label mkdf.payment&#34; style=&#34;padding-bottom:10px!important;font-weight:600!important;&#34;&gt; Vormistamine &lt;/div&gt;
+&lt;div class=&#34;mkdf-description mkdf.payment.description&#34; style=&#34;padding-bottom:8px!important;font-weight:400!important;&#34;&gt; Vormista annetus valides eelistatud panga &lt;/div&gt;
+&lt;div class=&#34;mkdf-form-items-horizontal mkdf-form-items-banklinks&#34; style=&#34;margin-right:-5px!important;margin-left:-5px!important;&#34;&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image so-banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;so-EE_SWED&#34; type=&#34;radio&#34; name=&#34;donations_bank_so&#34; onchange=&#34;changeBankLinkSo(this);&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; value=&#34;EE_SWED&#34;&gt;
+&lt;label for=&#34;so-EE_SWED&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/swedbank.png&#34; alt=&#34;EE_SWED&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image so-banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;so-EE_SEB&#34; type=&#34;radio&#34; name=&#34;donations_bank_so&#34; onchange=&#34;changeBankLinkSo(this);&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; value=&#34;EE_SEB&#34;&gt;
+&lt;label for=&#34;so-EE_SEB&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/seb.png&#34; alt=&#34;EE_SEB&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;div class=&#34;mkdf-form-item mkdf-form-item-image so-banklink&#34; style=&#34;display:inline-block!important;&#34;&gt;
+&lt;input id=&#34;so-EE_LHV&#34; type=&#34;radio&#34; name=&#34;donations_bank_so&#34; onchange=&#34;changeBankLinkSo(this);&#34; style=&#34;font-size:14px!important;font-family:Arial, Helvetica, sans-serif!important;display:none!important;&#34; value=&#34;EE_LHV&#34;&gt;
+&lt;label for=&#34;so-EE_LHV&#34; style=&#34;display:inline-block!important;border-width:4px!important;border-style:solid!important;border-color:#FFF!important;padding-bottom:0!important;box-sizing: content-box!important;&#34;&gt;&lt;img src=&#34;https://www.gojewish.eu/media/lhv.png&#34; alt=&#34;EE_LHV&#34; style=&#34;display:block!important;max-width:90px!important;&#34;&gt;&lt;/label&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;h3 id=&#34;küsimused&#34;&gt;Küsimused&lt;/h3&gt;
+&lt;h4 id=&#34;mis-on-gojewish&#34;&gt;Mis on goJewish?&lt;/h4&gt;
+&lt;p&gt;GoJewish on heategevusprojekt, mis tugevdab juudi kogukonda, eriti COVID-19 rasketel aegadel, läbi humanitaarabi.&lt;/p&gt;
+&lt;h4 id=&#34;mis-on-gojewishi-missioon&#34;&gt;Mis on GoJewishi missioon?&lt;/h4&gt;
+&lt;p&gt;GoJewish tugevdab Eesti Juudi Kogukonda, eriti COVID-19 ajal, pakkudes humanitaarabi. Selle missiooni saavutamiseks kogume annetusi, kaasame vabatahtlikke, teeme koostööd partneritega ja kasutame ressursse.&lt;/p&gt;
+&lt;h4 id=&#34;kas-minu-annetus-on-ohutu&#34;&gt;Kas minu annetus on ohutu?&lt;/h4&gt;
+&lt;p&gt;Absoluutselt. Teie prioriteet on teie teabe turvalisus ja konfidentsiaalsus. Kasutame teie teabe kaitsmiseks ning veebiannetuste jaoks turvalise ja turvalise keskkonna pakkumiseks tööstusharu standardit SSL (Secure Socket Layer). Me ei müü, vahetata ega edasta teie isiklikke andmeid kellelegi teisele ega saadeta annetatud kirju teiste organisatsioonide nimel ning edastame isikuandmeid ainult siis, kui olete meile selleks konkreetse loa andnud.&lt;/p&gt;
+&lt;h4 id=&#34;kuidas-ma-saan-teiega-ühendust-võtta&#34;&gt;Kuidas ma saan teiega ühendust võtta?&lt;/h4&gt;
+&lt;p&gt;Saatke meile e-kiri: &lt;a href=&#34;mailto:philantropy@jewish.ee&#34;&gt;philantropy@jewish.ee&lt;/a&gt; - või helistage meile telefonil +372 5555 9200&lt;/p&gt;
+&lt;h4 id=&#34;kuidas-määrata-annetuse-summa-mida-pole-veel-loetletud&#34;&gt;Kuidas määrata annetuse summa, mida pole veel loetletud?&lt;/h4&gt;
+&lt;p&gt;Annetuse summa saate täpsustada, klõpsates lihtsalt tühjal väljal kirje &amp;ldquo;või kirjuta sobiv summa&amp;rdquo; kõrval, kuhu sisestate annetuse summa.&lt;/p&gt;
+&lt;h4 id=&#34;kuidas-minu-annetus-krediitkaardi-väljavõttele-ilmub&#34;&gt;Kuidas minu annetus krediitkaardi väljavõttele ilmub?&lt;/h4&gt;
+&lt;p&gt;Teie krediitkaardi väljavõttel kuvatakse teie annetus järgmiselt: gojewish.eu&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>GoJewish filantroopiline projekt</title>
       <link>https://gojewish.github.io/et/post/go-jeweish-filantroopiline-projekt/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
@@ -2068,6 +2203,217 @@ Three
     </item>
     
     <item>
+      <title>Annetustingimused</title>
+      <link>https://gojewish.github.io/et/terms/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://gojewish.github.io/et/terms/</guid>
+      <description>&lt;h2 id=&#34;annetustingimused&#34;&gt;Annetustingimused&lt;/h2&gt;
+&lt;p&gt;Käesolevad Annetustingimused kohalduvad Boonus Meedia OÜ ja Annetaja vahel veebikeskkonnas gojewish.eu annetamisel.&lt;/p&gt;
+&lt;h2 id=&#34;definitsioonid&#34;&gt;Definitsioonid&lt;/h2&gt;
+&lt;p&gt;1.1 Annetaja - registreeritud kasutaja, ehk kasutaja kes tegi annetuse.&lt;/p&gt;
+&lt;p&gt;1.2 Boonus Meedia OÜ (registrikood 11268326), edaspidi Ettevõte - vahendaja Eesti Juudi Kogukonna ja Annetajate vahel.&lt;/p&gt;
+&lt;p&gt;1.3 Eesti Juudi Kogukond (registrikood 80086091), edaspidi EJK - mittetulundusühing, kes vastutab Annetaja ees kõigi projektidega seotud küsimuste eest, mille jaoks rahastamist kogutakse.&lt;/p&gt;
+&lt;p&gt;1.4 Annetus - materiaalne väärtus, rahaülekanne, kaupade ostmine, annetus väärtpaberite või testamendi vormis, mis viiakse läbi üks kord, kord kuus, kord kvartals või kord aastas, mille eesmärk on projektide elluviimine.&lt;/p&gt;
+&lt;p&gt;1.5 Müügileping - Ettevõtte vahendusel Annetaja ja EJK vahel sõlmitud leping, mis kinnitab annetamist EJK programmides määratletud filantroopsetel eesmärkidel.&lt;/p&gt;
+&lt;p&gt;1.6 Veebisait - Ettevõtte poolt toodetud ja hallatav annetamiskeskkond.&lt;/p&gt;
+&lt;h2 id=&#34;annetus&#34;&gt;Annetus&lt;/h2&gt;
+&lt;p&gt;2.1 Ettevõte omab ja haldab Veebisaiti, mille kaudu saavad Annetaja ja EJK sõlmida omavahelisi Müügilepinguid.&lt;/p&gt;
+&lt;p&gt;2.2 Veebisaidil oleva annetuse tegemise kohta on Ettevõte ja EJK sõlminud omavehelise vahenduslepingu.&lt;/p&gt;
+&lt;p&gt;2.3 Müügilepingu täitmise eest vastutab EJK. Ettevõtte’l ei ole õigust annetusi tagastada. Seda saab teha ainult EJK.&lt;/p&gt;
+&lt;p&gt;2.3.1 Ettevõte vahendajana tagastab annetusi ainult EJK loal. Ja ainult juhul, kui EJK’ga on sõlmitud vastav leping.&lt;/p&gt;
+&lt;p&gt;2.4 Müügileping EJK ja Annateja vahel loetakse sõlmituks annetuse laekumisega Ettevõtte arvelduskontole.&lt;/p&gt;
+&lt;p&gt;2.5 Kui Müügileping EJK ja Annetaja vahel on sõlmitud, edastab Ettevõte Annetajale teostatud annetuse info Annetaja poolt sisestatud e-postile.&lt;/p&gt;
+&lt;h2 id=&#34;annetaja-kinnitused-õigused-ja-kohustused&#34;&gt;Annetaja kinnitused, õigused ja kohustused&lt;/h2&gt;
+&lt;p&gt;3.1 Veebisaidil mistahes toimingu tegemisega kinnitab Annetaja, et&lt;/p&gt;
+&lt;p&gt;3.1.1 ta on füüsiline täisealine isik, kelle tegevus ei ole piiratud kehtiva kohtumäärusega.  (Alla 18-aastane isik kinnitab, et tal on Veebisaidi kasutamiseks, sh annetuse tegemiseks, seadusliku esindaja vastav nõusolek ja viimaselt selleks otstarbeks või vabaks kasutamiseks saadud rahalised vahendid); või&lt;/p&gt;
+&lt;p&gt;3.1.2 ta on juriidiline isik, keda esindab seaduslik esindaja, kellel on kõik õigused selle juriidilise isiku nimel Veebisaiti kasutada ja sellele juriidilisele isikule kohustusi võtta; ja&lt;/p&gt;
+&lt;p&gt;3.1.3 ta täidab nõuetekohaselt kõiki käesolevaid Veebisaidi Annetustingimusi; ja&lt;/p&gt;
+&lt;p&gt;3.1.4 ta edastab Veebisaidil kasutajaks registreerimisel tegelikkusele vastavat informatsiooni, sh registreerub oma õige ja täieliku nime all ning kasutab kehtivat e-posti ja telefoninumbri; ja&lt;/p&gt;
+&lt;p&gt;3.1.5 ta hoiab Veebisaidil püsikliendiks registreerumisel oma kasutajanime ja parole turvaliselt, välistades selle info sattumise kolmandate isikute kätte; ja&lt;/p&gt;
+&lt;p&gt;3.1.6 ta on teadlik, et Veebisaidi kasutamiseks vajaliku kasutajatunnuse ja salasõna sattumisel kolmandate isikute kätte vastutab Annetaja selliste isikute poolt Annetajale võetud kohustuste täitmise eest; ja&lt;/p&gt;
+&lt;p&gt;3.1.7 ta on teadlik, et tal puudub EJK’ga sõlmitud müügilepingust taganemise õigus Võlaõigusseaduse § 53 lg 4 p 72 kohaselt; ja&lt;/p&gt;
+&lt;p&gt;3.1.8 on teadlik, iga toimingu tegemisel ja andmete sisestamisel hoolikalt kontrollib tema poolt esitatavaid andmeid ja vastutab esitatud andmete õigususe eest; ja&lt;/p&gt;
+&lt;p&gt;3.1.8 on teadlik, et EJK vastutab annetustega seotud õiguste ja kohustuse eest; ja&lt;/p&gt;
+&lt;p&gt;3.1.10 on teadlik, et juhul, kui tehtud annetuse info ei ole jõudnud Annetaja e-postile kolme tunni jooksul pärast annetuse tegemist, peab Annetaja sellest Ettevõtet informeerima e-posti &lt;a href=&#34;mailto:klienditugi@jewish.ee&#34;&gt;klienditugi@jewish.ee&lt;/a&gt; või telefoni teel (+372) 55559200; ja&lt;/p&gt;
+&lt;p&gt;3.1.11 ta on teadlik, ta saab esitada annetuse tegemisega seonduvaid küsimusi, kaebusi ja ettepanekuid ning taotlusi Ettevõtte klienditoe e-postile &lt;a href=&#34;mailto:klienditugi@jewish.ee&#34;&gt;klienditugi@jewish.ee&lt;/a&gt;; ja&lt;/p&gt;
+&lt;p&gt;3.1.12 ta on teadlik, et Veebisaidi ükskõik millisel viisil kahjustamine, mille tagajärjeks on veebilehe ülekoormamine või töö halvamine või muu veebilehe toimimisele kahjulik tagajärg, on keelatud. Veebisaidi kasutamise monitooring (jälgimine, loendamine) ja saadud andmete kopeerimine, reprodutseerimine, kasutamine, muutmine ja avaldamine on mistahes eesmärkidel keelatud. Sellise tegevuse korral kannab Annetaja täit vastutust oma tegevusega tekitatud kahjude eest.&lt;/p&gt;
+&lt;p&gt;3.1.13 Annetajal on õigus teostada maksed alljärgnevatel viisidel:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;pangaülekanded Maksekeskusega - Ettevõte teeb koostööd Maksekeskus AS&amp;rsquo;ga, et pakkuda Annetajatele võimalust teha pangaülekandeid mugavalt ja kiiresti. Kõik tehingud pangakaartidega toimuvad kooskõlas VISA International, MasterCard ja teiste maksesüsteemide nõudmistega. Teabe edastamisel kasutatakse veebimaksetele kohalduvad turvalisuse tehnoloogiad ja andmetöötlus toimub töötlemiskeskuse turvalisel kõrgtehnoloogilisel serveril.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Annetuse tegemisel veebi kaudu toimub andmete sisestamine ja makse töötlemine pankade e-maksete süsteemi lehel. Maksesüsteem tagab seda, et Annetaja konfidentsiaalsed andmed ei sattu veebipoodi ja nende töötlus on täielikult kaitstud ning kliendi isiku- ja pangakonto andmed ei saa avaldatud kolmandale isikule.&lt;/p&gt;
+&lt;p&gt;Annetuse tegemisel saab Annetaja ise valida programm ning viis, kuidas panustada. Annetajal on võimalik teha ühekordne annetus või püsiannetus. Annetuse vormistamiseks tuleb täita nõutud andmeväljad. Seejärel kuvatakse ekraanile annetuse suurus, mille saab tasuda turvaliselt läbi järgnevate makseviiside:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eesti pangalingid: Swedbank, SEB, Luminor, LHV, Coop Pank, Pocopay&lt;/li&gt;
+&lt;li&gt;Maksa hiljem lahendused: Indivy Slice 3, Liisi ID, Finora krediit&lt;/li&gt;
+&lt;li&gt;Visa/Mastercard kaardimaksed&lt;/li&gt;
+&lt;li&gt;Soome pangalingid: Aktia, Ålandsbanken, Danske, Handelsbanken, Nordea, Oma Säästopankki, Pohjola, POP Pankki, S-Pankki, Säästopankki&lt;/li&gt;
+&lt;li&gt;Läti pangalingid: Swedbank, SEB, Citadele ja Luminor&lt;/li&gt;
+&lt;li&gt;Leedu pangalingid: Swedbank, SEB ja Luminor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;NB! Pangalingiga tasumisel vajutada kindlasti panga lehel nupule „Tagasi kaupmehe juurde“.&lt;/p&gt;
+&lt;p&gt;Makseid vahendab Maksekeskus AS. Tasumine toimub väljaspool Veebipoodi turvalises keskkonnas – pangalingiga tasumisel vastava panga turvalises keskkonnas ja krediitkaardiga tasumisel Maksekeskus AS turvalises keskkonnas. Ettevõttel puudub ligipääs kliendi panga ja krediitkaardi andmetele.&lt;/p&gt;
+&lt;p&gt;Ettevõte on isikuandmete vastutav töötleja ning edastab maksete teostamiseks vajalikud isikuandmed volitatud töötleja Maksekeskus AS&amp;rsquo;le.&lt;/p&gt;
+&lt;h2 id=&#34;ettevõtte-kinnitused-õigused-ja-kohustused&#34;&gt;Ettevõtte kinnitused, õigused ja kohustused&lt;/h2&gt;
+&lt;p&gt;4.1.1 Ettevõttel on õigus muuta Veebisaidi annetustingimusi igal ajal ühepoolselt. Annetustingimuste muudatused jõustuvad nende avaldamise päevast Veebilehel.&lt;/p&gt;
+&lt;p&gt;4.1.2 Ettevõttel on õigus katkestada Müügilepingu sõlmimine, s.t. annetuse tegemine, kui Ettevõttel on kahtlus, et Annetaja tegutseb ebaausalt või seadusevastaselt või Annetajana tegutseb isik, kes ei vasta käesolevates annetustingimustes punktides 3.1.1 või 3.1.2 sätestatud tingimustele.&lt;/p&gt;
+&lt;p&gt;4.1.3 Ettevõttel on õigus igal ajal piirata Annetaja poolt tehtavate annetuste arvu tulenevalt EJK poolt antud juhistest, kasutades selleks vastavaid tehnilisi seadistusi.&lt;/p&gt;
+&lt;p&gt;4.1.4 Ettevõte ei vastuta kolmandate osapoolte põhjustatud võimalike vigade eest, mille tõttu võib rahaülekanne ebaõnnestuda.&lt;/p&gt;
+&lt;p&gt;4.1.5 Ettevõte ei vastuta Annetaja poolt esitatud ebaõigete andmete eest, sh arvelduskonto numbri või e-posti aadressi ebatäpsuse eest.&lt;/p&gt;
+&lt;p&gt;4.1.6 Ettevõte ei vastuta EJK mistahes tegevuse eest, sh annetuste reklaami ja sisu vastavuse eest tegelikkusele, samas annetuse asendamise või ärajäämise eest. Müügilepingu täitmise eest vastutab üksnes EJK. Seega kõik tulenevad pretentsioonid lahendab ka EJK.&lt;/p&gt;
+&lt;p&gt;4.1.7 Ettevõte ei vastuta Veebisaidil EJK poolt üleslaetud informatsiooni, samas kommentaaride ja seal olevate suunavate linkide alusel saadava info eest.&lt;/p&gt;
+&lt;p&gt;4.1.8 Ettevõte ei ole kohustatud annetusi tagastama, sh kui annetuste kogumine jääb ära, see lükatakse edasi, muudetakse annetuse kogumise eesmärki või asendatakse muu annetuse saajaga. Annetuse tagastamisega tegeleb EJK, kui ei ole teatatud teisiti.&lt;/p&gt;
+&lt;p&gt;4.1.9 Juhul, kui Ettevõttel peaks siiski tekkima õigusaktidest tulenevalt Müügilepingu vahendamise eest vastutus, siis on see vastutus mistahes juhul ei saa ületada Annetaja poolt panustatud annetuse suurust.&lt;/p&gt;
+&lt;p&gt;4.1.10 Ettevõte on kohustatud annetuse tegemise järgselt saatma Annetajale tema poolt tehtud annetuse info Annetaja poolt etteantud e-postile.&lt;/p&gt;
+&lt;p&gt;4.1.11 Ettevõte on kohustatud Annetaja püsikliendikonto parooli kaotuse või unustamise korral võimaldama turvaliselt paroolivahetuse püsikkliendikonto taaskasutamiseks.&lt;/p&gt;
+&lt;h2 id=&#34;intellektuaalne-omand&#34;&gt;Intellektuaalne omand&lt;/h2&gt;
+&lt;p&gt;5.1 Ettevõttele kuuluvad kõik autoriõigused Veebisaidile ja selle koosseisus olevatele teostele, sealhulgas tarkvarale, tekstidele, andmebaasidele ja graafilisele kujundusele ning värvilahendusele.&lt;/p&gt;
+&lt;p&gt;5.2 Annetajal ja teistel isikutel ei ole ilma Ettevõteta eelneva kirjaliku nõusolekuta õigust Veebisaiti ja selle koostisosi mistahes viisil kopeerida, levitada, edastada, tõlkida, lülitada teistesse andmebaasidesse, teha väljavõtteid jms viisil kasutada.&lt;/p&gt;
+&lt;p&gt;5.3 Annetaja või muu isiku poolt Veebisaidi või selle koosseisu kuuluvate teoste ilma Ettevõteta eelneva kirjaliku nõusolekuta kasutamine või neile viide on õigusvastane ja toob endaga kaasa seaduses ettenähtud vastutuse ja kohustuse hüvitada seadusvastase tegevusega tekituatud kahju ja saamata jäänud tulu.&lt;/p&gt;
+&lt;h2 id=&#34;lõppsätted&#34;&gt;Lõppsätted&lt;/h2&gt;
+&lt;p&gt;6.1 Annetustingimused jõustuvad Ettevõtte ja Annetaja vahel hetkest, kui Annetaja annab käesolevate annetustingimuste nõustumise kohta vastava elektroonilise kinnituse kas annetuse tegemisel või püsikliendiks registreerimisel.&lt;/p&gt;
+&lt;p&gt;6.2 Annetustingimusi on Ettevõttel õigus muuta avaldades vastavasisulise info Veebisaidil. Muudatused jõustuvad Veebisaidil avaldamisest.&lt;/p&gt;
+&lt;p&gt;6.3 Juhul, kui mõni annetustingimuste säte on kehtetu vastuolu tõttu seadusega, ei mõjuta see ülejäänud annetustingimustes toodud sätete kehtivust ja kohaldatavust. Kui mõni Annetustingimuste säte on tüüptingimusena tühine, on selline säte kehtiv, kui Ostjaks ei ole tarbija.&lt;/p&gt;
+&lt;p&gt;6.4. Veebisaidi kasutamisest tulenevatele õigussuhetele Ettevõtte ja Annetaja vahel kohaldatakse Eesti Vabariigi õigusakte. Poolte vahel käesolevast Lepingust tulenevad vaidlused lahendatakse läbirääkimiste teel. Kokkuleppele mittejõudmisel kuuluvad vaidlused lahendamisele Harju maakohtus Eesti Vabariigi seadusandlusega kehtestatud korras.&lt;/p&gt;
+&lt;p&gt;6.5 Käesolevad annetustingimused on kinnitatud Ettevõtte juhatuse liige otsusega ja kehtivad kuni nende uuendamiseni Veebisaidil.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kasutustingimused ja Privaatsuspoliitika</title>
+      <link>https://gojewish.github.io/et/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://gojewish.github.io/et/privacy/</guid>
+      <description>&lt;h2 id=&#34;kasutustingimused&#34;&gt;Kasutustingimused&lt;/h2&gt;
+&lt;p&gt;Käesolevad Kasutustingimused kohalduvad Boonus Meedia OÜ ja Ostja vahel veebikeskkonnas gojewish.eu Kauba(de) ostmisel.&lt;/p&gt;
+&lt;h2 id=&#34;definitsioonid&#34;&gt;Definitsioonid&lt;/h2&gt;
+&lt;p&gt;1.1 Ostja - registreeritud kasutaja, ehk kasutaja kes ostis Kauba.&lt;/p&gt;
+&lt;p&gt;1.2 Boonus Meedia OÜ (registrikood 11268326), edaspidi Ettevõte - vahendaja Eesti Juudi Kogukonna ja Ostjate vahel Kauba(de) ostmisel.&lt;/p&gt;
+&lt;p&gt;1.3 Eesti Juudi Kogukond (registrikood 80086091), edaspidi EJK - mittetulundusühing, kes vastutab Ostja ees kõigi kaupadega seotud küsimuste eest.&lt;/p&gt;
+&lt;p&gt;1.4 Müügileping - Ettevõtte vahendusel Ostja ja EJK vahel sõlmitud leping, mis kinnitab Kauba(de) ostmist.&lt;/p&gt;
+&lt;p&gt;1.5 Kaup - e-poes gojewish.eu müüdav toode.&lt;/p&gt;
+&lt;p&gt;1.6 Veebisait - Ettevõtte poolt toodetud ja hallatav keskkond Kauba(de) ostmiseks.&lt;/p&gt;
+&lt;h2 id=&#34;kaubade-ostmine&#34;&gt;Kauba(de) ostmine&lt;/h2&gt;
+&lt;p&gt;2.1 Ettevõte omab ja haldab Veebisaiti, mille kaudu saavad Ostja ja EJK sõlmida omavahelisi Müügilepinguid, s.t. Ostja saab osta Kaupa.&lt;/p&gt;
+&lt;p&gt;2.2 Veebisaidil oleva Kauba(de) müügi vahendamise kohta on Ettevõte ja EJK sõlminud omavehelise vahenduslepingu.&lt;/p&gt;
+&lt;p&gt;2.3 Müügilepingu täitmise eest vastutab EJK. Ettevõtte’l ei ole õigust Kaupasid tagasi osta ega neid ümber vahetada. Seda saab teha ainult EJK.&lt;/p&gt;
+&lt;p&gt;2.3.1 Ettevõte vahendajana vahetab Kaupasid ainult EJK loal. Ja ainult juhul, kui EJK’ga on sõlmitud vastav leping.&lt;/p&gt;
+&lt;p&gt;2.4 Müügileping EJK ja Ostja vahel loetakse sõlmituks Kauba(de) maksumuse laekumisega Ettevõtte arvelduskontole.&lt;/p&gt;
+&lt;p&gt;2.5 Kui Müügileping EJK ja Ostja vahel on sõlmitud, edastab Ettevõte Ostjale ostetud Kauba(de) info Ostja poolt sisestatud e-postile.&lt;/p&gt;
+&lt;h2 id=&#34;ostja-kinnitused-õigused-ja-kohustused&#34;&gt;Ostja kinnitused, õigused ja kohustused&lt;/h2&gt;
+&lt;p&gt;3.1 Veebisaidil mistahes toimingu tegemisega kinnitab Ostja, et&lt;/p&gt;
+&lt;p&gt;3.1.1 ta on füüsiline täisealine isik, kelle tegevus ei ole piiratud kehtiva kohtumäärusega.  (Alla 18-aastane isik kinnitab, et tal on Veebisaidi kasutamiseks, sh Kauba(de) ostmiseks, seadusliku esindaja vastav nõusolek ja viimaselt selleks otstarbeks või vabaks kasutamiseks saadud rahalised vahendid); või&lt;/p&gt;
+&lt;p&gt;3.1.2 ta on juriidiline isik, keda esindab seaduslik esindaja, kellel on kõik õigused selle juriidilise isiku nimel Veebisaiti kasutada ja sellele juriidilisele isikule kohustusi võtta; ja&lt;/p&gt;
+&lt;p&gt;3.1.3 ta täidab nõuetekohaselt kõiki käesolevaid Veebisaidi Kasutustingimusi; ja&lt;/p&gt;
+&lt;p&gt;3.1.4 ta edastab Veebisaidil kasutajaks registreerimisel tegelikkusele vastavat informatsiooni, sh registreerub oma õige ja täieliku nime all ning kasutab kehtivat e-posti ja telefoninumbri; ja&lt;/p&gt;
+&lt;p&gt;3.1.5 ta hoiab Veebisaidil püsikliendiks registreerumisel oma kasutajanime ja parole turvaliselt, välistades selle info sattumise kolmandate isikute kätte; ja&lt;/p&gt;
+&lt;p&gt;3.1.6 ta on teadlik, et Veebisaidi kasutamiseks vajaliku kasutajatunnuse ja salasõna sattumisel kolmandate isikute kätte vastutab Ostja selliste isikute poolt Ostjale võetud kohustuste täitmise eest; ja&lt;/p&gt;
+&lt;p&gt;3.1.7 ta on teadlik, et tal puudub Kauba(de) ostuga EJK’ga sõlmitud müügilepingust taganemise õigus Võlaõigusseaduse § 53 lg 4 p 72 kohaselt; ja&lt;/p&gt;
+&lt;p&gt;3.1.8 on teadlik, iga toimingu tegemisel ja andmete sisestamisel hoolikalt kontrollib tema poolt esitatavaid andmeid ja vastutab esitatud andmete õigususe eest; ja&lt;/p&gt;
+&lt;p&gt;3.1.9 on teadlik, et EJK vastutab Kaupa(de)ga seotud õiguste ja kohustuse eest; ja&lt;/p&gt;
+&lt;p&gt;3.1.10 on teadlik, et juhul, kui ostetud Kauba(de) info ei ole jõudnud Ostja e-postile kolme tunni jooksul pärast ostu sooritamist ja tasumist, peab Ostja sellest Ettevõtet informeerima e-posti &lt;a href=&#34;mailto:klienditugi@jewish.ee&#34;&gt;klienditugi@jewish.ee&lt;/a&gt; või telefoni teel (+372) 55559200; ja&lt;/p&gt;
+&lt;p&gt;3.1.11 ta on teadlik, ta saab esitada Kauba(de) ostuga seonduvaid küsimusi, kaebusi ja ettepanekuid ning taotlusi Ettevõtte klienditoe e-postile &lt;a href=&#34;mailto:klienditugi@jewish.ee&#34;&gt;klienditugi@jewish.ee&lt;/a&gt;; ja&lt;/p&gt;
+&lt;p&gt;3.1.12 ta on teadlik, et Veebisaidi ükskõik millisel viisil kahjustamine, mille tagajärjeks on veebilehe ülekoormamine või töö halvamine või muu veebilehe toimimisele kahjulik tagajärg, on keelatud. Veebisaidi kasutamise monitooring (jälgimine, loendamine) ja saadud andmete kopeerimine, reprodutseerimine, kasutamine, muutmine ja avaldamine on mistahes eesmärkidel keelatud. Sellise tegevuse korral kannab Ostja täit vastutust oma tegevusega tekitatud kahjude eest.&lt;/p&gt;
+&lt;p&gt;3.1.13 Ostjal on õigus teostada maksed alljärgnevatel viisidel:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;pangaülekanded Maksekeskusega - Ettevõte teeb koostööd Maksekeskus AS&amp;rsquo;ga, et pakkuda Ostjatele võimalust teha pangaülekandeid mugavalt ja kiiresti. Kõik tehingud pangakaartidega toimuvad kooskõlas VISA International, MasterCard ja teiste maksesüsteemide nõudmistega. Teabe edastamisel kasutatakse veebimaksetele kohalduvad turvalisuse tehnoloogiad ja andmetöötlus toimub töötlemiskeskuse turvalisel kõrgtehnoloogilisel serveril.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Kaubade eest maksmisel veebi kaudu toimub andmete sisestamine ja makse töötlemine pankade e-maksete süsteemi lehel. Maksesüsteem tagab seda, et Ostja konfidentsiaalsed andmed ei sattu veebipoodi ja nende töötlus on täielikult kaitstud ning kliendi isiku- ja pangakonto andmed ei saa avaldatud kolmandale isikule.&lt;/p&gt;
+&lt;p&gt;Kauba tellimiseks tuleb lisada soovitud tooted ostukorvi. Tellimuse vormistamiseks tuleb täita nõutud andmeväljad ning valida sobiv toodete kohaletoimetamise viis. Seejärel kuvatakse ekraanile tasu suurus, mille saab tasuda turvaliselt läbi järgnevate makseviiside:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Eesti pangalingid: Swedbank, SEB, Luminor, LHV, Coop Pank, Pocopay&lt;/li&gt;
+&lt;li&gt;Maksa hiljem lahendused: Indivy Slice 3, Liisi ID, Finora krediit&lt;/li&gt;
+&lt;li&gt;Visa/Mastercard kaardimaksed&lt;/li&gt;
+&lt;li&gt;Soome pangalingid: Aktia, Ålandsbanken, Danske, Handelsbanken, Nordea, Oma Säästopankki, Pohjola, POP Pankki, S-Pankki, Säästopankki&lt;/li&gt;
+&lt;li&gt;Läti pangalingid: Swedbank, SEB, Citadele ja Luminor&lt;/li&gt;
+&lt;li&gt;Leedu pangalingid: Swedbank, SEB ja Luminor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;NB! Pangalingiga tasumisel vajutada kindlasti panga lehel nupule „Tagasi kaupmehe juurde“.&lt;/p&gt;
+&lt;p&gt;Makseid vahendab Maksekeskus AS. Tasumine toimub väljaspool Veebipoodi turvalises keskkonnas – pangalingiga tasumisel vastava panga turvalises keskkonnas ja krediitkaardiga tasumisel Maksekeskus AS turvalises keskkonnas. Müüjal puudub ligipääs kliendi panga ja krediitkaardi andmetele.&lt;/p&gt;
+&lt;p&gt;Ettevõte on isikuandmete vastutav töötleja ning edastab maksete teostamiseks vajalikud isikuandmed volitatud töötleja Maksekeskus AS&amp;rsquo;le.&lt;/p&gt;
+&lt;h2 id=&#34;ettevõtte-kinnitused-õigused-ja-kohustused&#34;&gt;Ettevõtte kinnitused, õigused ja kohustused&lt;/h2&gt;
+&lt;p&gt;4.1 Ettevõttel on õigus muuta Veebisaidi kasutustingimusi igal ajal ühepoolselt. Kasutustingimuste muudatused jõustuvad nende avaldamise päevast Veebilehel.&lt;/p&gt;
+&lt;p&gt;4.2 Ettevõttel on õigus katkestada Müügilepingu sõlmimine, s.t. Kauba(de) ost, kui Ettevõttel on kahtlus, et Ostja tegutseb ebaausalt või seadusevastaselt või Ostjana tegutseb isik, kes ei vasta käesolevates Kasutustingimuste punktides 3.1.1 või 3.1.2 sätestatud tingimustele.&lt;/p&gt;
+&lt;p&gt;4.3 Ettevõttel on õigus igal ajal piirata Ostja poolt ostetavate Kauba(de) arvu tulenevalt EJK poolt antud juhistest, kasutades selleks vastavaid tehnilisi seadistusi.&lt;/p&gt;
+&lt;p&gt;4.4 Ettevõte ei vastuta kolmandate osapoolte põhjustatud võimalike vigade eest, mille tõttu võib rahaülekanne ebaõnnestuda.&lt;/p&gt;
+&lt;p&gt;4.5 Ettevõte ei vastuta Kauba(de) vigastamise eest kolmandate isikute kätte sattumisega kaasnevate mistahes kahjude eest, ka juhul, kui Kaup satub kolmandate isikute kätte ebakorrektse tarneaadressi või e-posti aadressi sisestamise tõttu, sisestatud e-posti aadressile määratud automaatsete suunamiste või püsikliendikonto ebaõigete andmete tõttu vms tõttu.&lt;/p&gt;
+&lt;p&gt;4.6 Ettevõte ei vastuta hävinud, kaotatud, varastatud ega rikutud Kauba(de) eest.&lt;/p&gt;
+&lt;p&gt;4.7 Ettevõte ei vastuta Ostja poolt esitatud ebaõigete andmete eest, sh arvelduskonto numbri või e-posti aadressi ebatäpsuse eest.&lt;/p&gt;
+&lt;p&gt;4.8 Ettevõte ei vastuta EJK mistahes tegevuse eest, sh Kauba(de) reklaami ja sisu vastavuse eest tegelikkusele. Müügilepingu täitmise eest vastutab üksnes EJK. Seega kõik tulenevad pretentsioonid lahendab ka EJK.&lt;/p&gt;
+&lt;p&gt;4.9 Ettevõte ei vastuta Veebisaidil EJK poolt üleslaetud informatsiooni, samas kommentaaride ja seal olevate suunavate linkide alusel saadava info eest.&lt;/p&gt;
+&lt;p&gt;4.10 Ettevõte ega EJK ei vastuta Kauba(de) saaja ja Kaupa ostnud isiku samasuse eest ega vastuta sellest tingitud mistahes kahjude eest.&lt;/p&gt;
+&lt;p&gt;4.11 Ettevõte ei ole kohustatud kaupasid tagasi ostma või hüvitama. Kaupa(de) tagasiostu ja/või hävitamisega tegeleb EJK, kui ei ole teatatud teisiti.&lt;/p&gt;
+&lt;p&gt;4.12 Juhul, kui Ettevõttel peaks siiski tekkima õigusaktidest tulenevalt Müügilepingu vahendamise eest vastutus, siis on see vastutus mistahes juhul ei saa ületada Ostja poolt tasutud Kauba(de) maksumust.&lt;/p&gt;
+&lt;p&gt;4.13 Ettevõte on kohustatud ostu sooritamise järgselt saatma Ostjale tema poolt ostetud Kauba(de) info Ostja poolt etteantud e-postile.&lt;/p&gt;
+&lt;p&gt;4.14 Ettevõte on kohustatud Ostja püsikliendikonto parooli kaotuse või unustamise korral võimaldama turvaliselt paroolivahetuse püsikkliendikonto taaskasutamiseks.&lt;/p&gt;
+&lt;h2 id=&#34;intellektuaalne-omand&#34;&gt;Intellektuaalne omand&lt;/h2&gt;
+&lt;p&gt;5.1 Ettevõttele kuuluvad kõik autoriõigused Veebisaidile ja selle koosseisus olevatele teostele, sealhulgas tarkvarale, tekstidele, andmebaasidele ja graafilisele kujundusele ning värvilahendusele.&lt;/p&gt;
+&lt;p&gt;5.2 Ostjal ja teistel isikutel ei ole ilma Ettevõteta eelneva kirjaliku nõusolekuta õigust Veebisaiti ja selle koostisosi mistahes viisil kopeerida, levitada, edastada, tõlkida, lülitada teistesse andmebaasidesse, teha väljavõtteid jms viisil kasutada.&lt;/p&gt;
+&lt;p&gt;5.3 Ostja või muu isiku poolt Veebisaidi või selle koosseisu kuuluvate teoste ilma Ettevõteta eelneva kirjaliku nõusolekuta kasutamine või neile viide on õigusvastane ja toob endaga kaasa seaduses ettenähtud vastutuse ja kohustuse hüvitada seadusvastase tegevusega tekituatud kahju ja saamata jäänud tulu.&lt;/p&gt;
+&lt;h2 id=&#34;lõppsätted&#34;&gt;Lõppsätted&lt;/h2&gt;
+&lt;p&gt;6.1 Kasutustingimused jõustuvad Ettevõtte ja Ostja vahel hetkest, kui Ostja annab käesolevate kasutustingimuste nõustumise kohta vastava elektroonilise kinnituse Kauba(de) ostes või püsikliendiks registreerimisel.&lt;/p&gt;
+&lt;p&gt;6.2 Kasutustingimusi on Ettevõttel õigus muuta avaldades vastavasisulise info Veebisaidil. Muudatused jõustuvad Veebisaidil avaldamisest.&lt;/p&gt;
+&lt;p&gt;6.3 Juhul, kui mõni kasutustingimuste säte on kehtetu vastuolu tõttu seadusega, ei mõjuta see ülejäänud Kasutustingimustes toodud sätete kehtivust ja kohaldatavust. Kui mõni Kasutustingimuste säte on tüüptingimusena tühine, on selline säte kehtiv, kui Ostjaks ei ole tarbija.&lt;/p&gt;
+&lt;p&gt;6.4. Veebisaidi kasutamisest tulenevatele õigussuhetele Ettevõtte ja Ostja vahel kohaldatakse Eesti Vabariigi õigusakte. Poolte vahel käesolevast Lepingust tulenevad vaidlused Kauba(de) ostmisel lahendatakse läbirääkimiste teel. Kokkuleppele mittejõudmisel kuuluvad vaidlused lahendamisele Harju maakohtus Eesti Vabariigi seadusandlusega kehtestatud korras.&lt;/p&gt;
+&lt;p&gt;6.5 Käesolevad kasutustingimused on kinnitatud Ettevõtte juhatuse liige otsusega ja kehtivad kuni nende uuendamiseni Veebisaidil.&lt;/p&gt;
+&lt;h2 id=&#34;privaatsuspoliitika-ja-küpsised&#34;&gt;Privaatsuspoliitika ja küpsised&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Privaatsuspoliitika sätestab reeglid isikuandmete kogumiseks, säilitamiseks ja töötlemiseks Boonus Meedia OÜ (edaspidi Ettevõte) teenuste kasutamisel.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Privaatsuspoliitika on mõeldud turvalisuse ja isikuandmete kaitse tagamiseks kasutajale, et kaitsta neid ebaseadusliku isikuandmete kasutamise eest.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kasutaja isikuandmete töötlejaks on Ettevõte. Ettevõte edastab maksete teostamiseks vajalikud isikuandmed volitatud töötleja - Maksekeskus AS-le. Kasutaja isikuandmeid töödeldakse kooskõlas Eesti Vabariigis kehtiva isikuandmete kaitse regulatsiooniga.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ettevõte kogub kasutaja isikuandmeid kasutaja veebisaidile registreerumisel ja muul moel kasutaja poolt veebisaidi kasutamisel.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ettevõte kasutab isikuandmeid kasutajale teenuste osutamiseks, kasutades selleks ka uudiskirja saatmist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ettevõte kogub isikuandmeid minimaalselt ja töötleb järgmisi kasutaja isikuandmeid: ees- ja perekonnanimi, vanus, e-posti aadress, telefoninumber ja makse teostamiseks vajalikud andmed (juhul, kui on tehtud ostu tehingud) ning püsikliendi nimi, mis võimaldavad kasutaja isikut tuvastada ja millised on kasutaja edastanud veebisaidil püsikliendiks registreerudes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ettevõte ei edasta kasutaja kohta saadud isikuandmeid kolmandatele isikutele, v.a. kolmandaid isikuid, kes osutavad teenuseid ning on seotud Ettevõttega konfidentsiaalse informatsiooni mitteavalikustamise lepinguga.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Püsikliendiks registreerimisel annab kasutaja nõusoleku, et Ettevõte võib kasutaja isikuandmeid töödelda. Ettevõte hooliseb isikuandmete privaatse töötlemise ja turvalise säilitamise eest. Ettevõte edastab isikuandmeid ainult kas volitatud töötlejatele või tulenevalt seadusest riigiasutustele.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ettevõte omab õigust töödelda kasutaja isikuandmeid ilma kasutaja nõusolekuta seadusest tulenevate kohustuste ning poolte vahel sõlmitud lepingu täitmiseks ning vajadusel kasutada neid toimingute tõendamiseks.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ettevõte töötleb kasutaja isikuandmeid minimaalses võimalikus ulatuses, üksnes teenuse osutamise eesmärkidel ning seni, kuni see on vajalik isikuandmete töötlemise eesmärkide saavutamiseks. Ettevõttel on õigus säilitada kasutaja isikuandmeid nõuete esitamise tähtaja möödumiseni.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Ettevõte tagab kasutaja isikuandmete konfidentsiaalsuse ning nende töötlemise seaduslikkuse.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kasutajal on õigus isikuandmete töötlemiseks antud nõusolek igal ajal tagasi võtta, nõuda isikuandmete töötlemise lõpetamist ja kogutud isikuandmete kustutamist või sulgemist, samuti püsikliendikonto sulgemist, avaldades selleks soovi e-posti teel. Raamatupidamisnõuete tõttu ei saa Ettevõte kustutada juba toimunud tehinguid, mistõttu saame kustutada ainult need isikuandmed, mille vanus ületab 7 aastat.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Veebisait on avalikult nähtav ja kasutatav kõigile külastajatele. Eeldame, et alla 18-aastased lapsed on andnud nõusoleku oma isikuandmeid töödelda. Hooldajate loata meile jagatud alla 18-aastaste laste isikuandmed kustutatakse, kui selline juhtum on Ettevõttele teatavaks tulnud.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Kõiki andmeid kasutaja ja kasutaja tehingute kohta hoitakse kuni 7 aastat, vastavalt raamatupidamisnõuetele. Kui kasutaja ei ole selle aja jooksul uusi tehinguid teinud, siis kliendiandmed kustutatakse 7 aasta möödudes.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Veebisait kasutab küpsised. See võimaldab Ettevõttel pakkuda veebisaidile mugavat ülevaadet ja annab ka võimaluse seda parandada. Veebisaidiga töötamise jätkamiseks peab kasutaja nõustuma küpsiste kasutamisega.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Küpsised on väikesed failid, mis koosnevad kasutaja arvutis kõvakettale brauseri salvestatud tähtedest ja numbritest, kui nõustute nende kasutamisega.&lt;/p&gt;
+&lt;p&gt;15.1 Kasutame järgmisi küpsiseid:&lt;/p&gt;
+&lt;p&gt;Täielikud küpsised. Need on veebisaidi korrektseks toimimiseks vajalikud failid. Need hõlmavad, näiteks, küpsised, mis võimaldavad kasutajal siseneda veebisaidi kaitstud aladele, lisada kaupu ostukorvi või kasutada elektroonilist maksesüsteemi.&lt;/p&gt;
+&lt;p&gt;Analüütilised / tehnilised küpsised. Need võimaldavad Ettevõttel hinnata ja lugeda veebisaidi külastajate arvu ning ka mõista, kuidas nad veebisaidi tööriista ajal liikuvad. See aitab Ettevõttel veebisaidil parandada, näiteks, optimeerides eelistatud tegevuste otsingut, muutes selle lihtsaks ja tõhusaks.&lt;/p&gt;
+&lt;p&gt;Funktsionaalsed küpsised. Need failid on vajalikud, et veebisaidi külastajaid ära tunda, kui külastate meie veebisaiti uuesti. See võimaldab Ettevõttel kohandada veebisaidi sisu kasutajate vajadustele, tervitada kasutaja nime ja meeles pidada oma eelistusi.&lt;/p&gt;
+&lt;p&gt;Siht-küpsised. Need küpsised registreerivad veebisaidi külastused, mäletavad kasutajate külastatud lehti ja lingid, mida läbisite. Ettevõte kasutab seda teavet, et tagada, et veebisait ja sellel kuvatud reklaamid on kasutajate huvidele võimalikult täpsed. Ettevõte võib selle teabe edastada ka kolmandatele isikutele.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://gojewish.github.io/et/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -2105,6 +2451,27 @@ Three
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://gojewish.github.io/et/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gojewish.github.io/et/tanan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gojewish.github.io/et/tanan/</guid>
+      <description>&lt;h1 id=&#34;täname-helde-toetuse-eest&#34;&gt;Täname helde toetuse eest!&lt;/h1&gt;
+&lt;h3 id=&#34;võite-heita-pilgu-ka-meie-teistele-projektideleprogram&#34;&gt;&lt;a href=&#34;#program&#34;&gt;Võite heita pilgu ka meie teistele projektidele!&lt;/a&gt;&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://gojewish.github.io/et/viga/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://gojewish.github.io/et/viga/</guid>
+      <description>&lt;h1 id=&#34;vabandust-teie-makse-ebaõnnestus&#34;&gt;Vabandust, teie makse ebaõnnestus.&lt;/h1&gt;
+&lt;h2 id=&#34;proovige-mõne-minuti-pärast-uuesti-või-valige-mõni-muu-meetodhttpswwwgojewisheuetdonate&#34;&gt;Proovige mõne minuti pärast uuesti või &lt;a href=&#34;https://www.gojewish.eu/et/donate/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;valige mõni muu meetod&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;aitäh&#34;&gt;Aitäh.&lt;/h3&gt;
+</description>
     </item>
     
   </channel>
